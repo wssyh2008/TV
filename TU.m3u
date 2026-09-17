@@ -838,6 +838,21 @@ https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e
 #EXTINF:-1 tvg-name="直播中国" group-title="直播中国",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 
+#EXTINF:-1 tvg-name="台视" group-title="台湾频道",台视
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-name="中视" group-title="台湾频道",中视
+http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#EXTINF:-1 tvg-name="三立台湾台" group-title="台湾频道",三立台湾台
+http://162.19.247.76:22222/live/uch5/index.m3u8
+#EXTINF:-1 tvg-name="三立都会台" group-title="台湾频道",三立都会台
+http://162.19.247.76:22222/live/uch6/index.m3u8
+#EXTINF:-1 tvg-name="东森戏剧台" group-title="台湾频道",东森戏剧台
+http://162.19.247.76:22222/live/dsxj/index.m3u8
+#EXTINF:-1 tvg-name="民视无线台" group-title="台湾频道",民视无线台
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" group-title="台湾频道",民视新闻台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8
+
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1984
