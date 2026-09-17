@@ -278,6 +278,16 @@ https://live.metshop.top/douyu/3949681
 https://live.metshop.top/huya/11601966
 #EXTINF:-1 tvg-name="中华小当家" group-title="少儿频道",中华小当家
 https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
+http://223.110.243.170/PLTV/2510088/224/3221227140/1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
+http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
+http://223.110.243.134/PLTV/2510088/224/3221227127/1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
+http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿频道",嘉佳卡通
+http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-name="AMC音乐" group-title="音乐频道",AMC音乐
 https://AMChls.wns.live/hls/stream.m3u8
