@@ -303,7 +303,7 @@ http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
 http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+ttp://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
 http://223.110.243.134/PLTV/2510088/224/3221227127/1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
