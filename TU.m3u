@@ -96,6 +96,10 @@ http://101.35.240.114:88/live.php?id=新疆卫视
 http://101.35.240.114:88/live.php?id=青海卫视
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东南卫视
 http://101.35.240.114:88/live.php?id=东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东南卫视
+http://101.66.198.207:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",吉林卫视
 http://101.35.240.114:88/live.php?id=吉林卫视
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",四川卫视
@@ -138,6 +142,14 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="福建海峡卫视" group-title="卫视IPV4",福建海峡卫视
 http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-name="福建海峡卫视" group-title="卫视IPV4",福建海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 tvg-name="福建海峡卫视" group-title="卫视IPV4",福建海峡卫视
+http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 tvg-name="芒果TV" group-title="卫视IPV4",芒果TV
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230235/index.m3u8
+#EXTINF:-1 tvg-name="芒果TV" group-title="卫视IPV4",芒果TV
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230203/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="iPhone" group-title="央视IPV4",CCTV4K
 http://101.35.240.114:88/live.php?id=CCTV4K
@@ -270,24 +282,36 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿频道",优漫卡通
 http://47.108.115.255:34010/626064703
-#EXTINF:-1 tvg-name="猫和老鼠" group-title="少儿频道",猫和老鼠
+#EXTINF:-1 tvg-name="猫和老鼠1" group-title="少儿频道",猫和老鼠1
 https://live.metshop.top/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠2" group-title="少儿频道",猫和老鼠2
+https://cdn-3.ttvb.eu.org/huya/11352879
 #EXTINF:-1 tvg-name="海绵宝宝" group-title="少儿频道",海绵宝宝
 https://live.metshop.top/douyu/3949681
-#EXTINF:-1 tvg-name="七龙珠" group-title="少儿频道",七龙珠
+#EXTINF:-1 tvg-name="七龙珠1" group-title="少儿频道",七龙珠1
 https://live.metshop.top/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠2" group-title="少儿频道",七龙珠2
+https://cdn-3.ttvb.eu.org/huya/11601966
+#EXTINF:-1 tvg-name="航海王" group-title="少儿频道",航海王
+https://cdn-3.ttvb.eu.org/huya/16913382
 #EXTINF:-1 tvg-name="中华小当家" group-title="少儿频道",中华小当家
 https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
 http://223.110.243.170/PLTV/2510088/224/3221227140/1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
+http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
 http://42.176.185.28:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
 http://223.110.243.134/PLTV/2510088/224/3221227127/1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
 http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿频道",嘉佳卡通
 http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="哆啦A梦" group-title="少儿频道",哆啦A梦
+https://cdn-3.ttvb.eu.org/huya/11601963
 
 #EXTINF:-1 tvg-name="AMC音乐" group-title="音乐频道",AMC音乐
 https://AMChls.wns.live/hls/stream.m3u8
@@ -828,6 +852,21 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9
 #EXTINF:-1 tvg-name="龙井" group-title="记录频道",龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 
+#EXTINF:-1 tvg-name="台视" group-title="台湾频道",台视
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-name="中视" group-title="台湾频道",中视
+http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#EXTINF:-1 tvg-name="三立台湾台" group-title="台湾频道",三立台湾台
+http://162.19.247.76:22222/live/uch5/index.m3u8
+#EXTINF:-1 tvg-name="三立都会台" group-title="台湾频道",三立都会台
+http://162.19.247.76:22222/live/uch6/index.m3u8
+#EXTINF:-1 tvg-name="东森戏剧台" group-title="台湾频道",东森戏剧台
+http://162.19.247.76:22222/live/dsxj/index.m3u8
+#EXTINF:-1 tvg-name="民视无线台" group-title="台湾频道",民视无线台
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" group-title="台湾频道",民视新闻台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8
+
 #EXTINF:-1 tvg-name="精品体育" group-title="体育频道",精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-name="精品体育" group-title="体育频道",精品体育
@@ -847,21 +886,6 @@ https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e
 
 #EXTINF:-1 tvg-name="直播中国" group-title="直播中国",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-
-#EXTINF:-1 tvg-name="台视" group-title="台湾频道",台视
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 tvg-name="中视" group-title="台湾频道",中视
-http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1 tvg-name="三立台湾台" group-title="台湾频道",三立台湾台
-http://162.19.247.76:22222/live/uch5/index.m3u8
-#EXTINF:-1 tvg-name="三立都会台" group-title="台湾频道",三立都会台
-http://162.19.247.76:22222/live/uch6/index.m3u8
-#EXTINF:-1 tvg-name="东森戏剧台" group-title="台湾频道",东森戏剧台
-http://162.19.247.76:22222/live/dsxj/index.m3u8
-#EXTINF:-1 tvg-name="民视无线台" group-title="台湾频道",民视无线台
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" group-title="台湾频道",民视新闻台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8
 
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -951,3 +975,51 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2026
 https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+
+#EXTINF:-1 tvg-name="电视解说1" group-title="影视解说",电视解说1
+https://cdn-3.ttvb.eu.org/huya/21277391
+#EXTINF:-1 tvg-name="电视解说2" group-title="影视解说",电视解说2
+https://cdn-3.ttvb.eu.org/huya/25018873
+#EXTINF:-1 tvg-name="电影解说1" group-title="影视解说",电影解说1
+https://cdn-3.ttvb.eu.org/huya/20289754
+#EXTINF:-1 tvg-name="电影解说2" group-title="影视解说",电影解说2
+https://cdn-3.ttvb.eu.org/huya/24983280
+#EXTINF:-1 tvg-name="电影解说3" group-title="影视解说",电影解说3
+https://cdn-3.ttvb.eu.org/huya/24396428
+#EXTINF:-1 tvg-name="恐怖电影解说" group-title="影视解说",恐怖电影解说
+https://cdn-3.ttvb.eu.org/huya/23419131
+#EXTINF:-1 tvg-name="漫威电影解说" group-title="影视解说",漫威电影解说
+https://cdn-3.ttvb.eu.org/huya/17089779
+
+#EXTINF:-1 tvg-name="厦门卫视" group-title="厦门卫视",厦门卫视
+http://xiamencncc.v.wscdns.com/chylh/zzxmt_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="厦门卫视",厦门卫视
+http://xiamencncc.v.wscdns.com/chylh/zzxmt4_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门1" group-title="厦门卫视",厦门1
+http://xiamencncc.v.wscdns.com/chylh/zzxmt1_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门1" group-title="厦门卫视",厦门1
+http://xiamencncc.v.wscdns.com/chylh/zzxmt3_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门2" group-title="厦门卫视",厦门2
+http://xiamencncc.v.wscdns.com/chylh/zzxmt2_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门移动电视" group-title="厦门卫视",厦门移动电视
+http://xiamencncc.v.wscdns.com/chylh/zzxmtyd_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门旅游广播" group-title="厦门卫视",厦门旅游广播
+https://live1.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门旅游广播" group-title="厦门卫视",厦门旅游广播
+https://live1.kxm.xmtv.cn/aac_xmly/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门闽南之声" group-title="厦门卫视",厦门闽南之声
+https://live1.kxm.xmtv.cn/aac_mnzs/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门闽南之声" group-title="厦门卫视",厦门闽南之声
+https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门音乐广播" group-title="厦门卫视",厦门音乐广播
+https://live1.kxm.xmtv.cn/aac_xmyy/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门音乐广播" group-title="厦门卫视",厦门音乐广播
+https://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门经济交通广播" group-title="厦门卫视",厦门经济交通广播
+https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门经济交通广播" group-title="厦门卫视",厦门经济交通广播
+https://live1.kxm.xmtv.cn/aac_xmjjjt/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门综合广播" group-title="厦门卫视",厦门综合广播
+https://live1.kxm.xmtv.cn/aac_zhgb/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门综合广播" group-title="厦门卫视",厦门综合广播
+https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
